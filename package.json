@@ -4,6 +4,11 @@
   "description": "Watch YouTube Shorts while you vibe code.",
   "version": "0.0.1",
   "publisher": "BingeVibe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pranavkok/BingeVibe"
+  },
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.85.0"
