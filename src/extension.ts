@@ -3,7 +3,7 @@ import * as http from 'http';
 
 export function activate(context: vscode.ExtensionContext) {
 
-    const disposable = vscode.commands.registerCommand('bingevibe.helloWorld', async () => {
+    const disposable = vscode.commands.registerCommand('bingevibe.openShorts', async () => {
 
         let apiKey = await context.secrets.get('bingevibe.ytApiKey');
 

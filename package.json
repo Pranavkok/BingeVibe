@@ -2,7 +2,7 @@
   "name": "bingevibe",
   "displayName": "BingeVibe",
   "description": "Watch YouTube Shorts while you vibe code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "BingeVibe",
   "license": "MIT",
   "repository": {
@@ -22,8 +22,12 @@
   "contributes": {
     "commands": [
       {
-        "command": "bingevibe.helloWorld",
-        "title": "Hello World"
+        "command": "bingevibe.openShorts",
+        "title": "BingeVibe: Watch Shorts"
+      },
+      {
+        "command": "bingevibe.resetApiKey",
+        "title": "BingeVibe: Reset API Key"
       }
     ]
   },
