@@ -31,6 +31,10 @@ A **YouTube Data API v3 key** is required. You'll be prompted to enter it when y
 
 ## Release Notes
 
+### 0.0.3
+
+Fixed command name in docs — now correctly shows "BingeVibe: Watch Shorts".
+
 ### 0.0.1
 
 Initial release — YouTube Shorts side panel with search, navigation, and auto-skip.
