@@ -16,7 +16,7 @@ A **YouTube Data API v3 key** is required. You'll be prompted to enter it when y
 ## Usage
 
 1. Open the Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`)
-2. Run **BingeVibe: Hello World**
+2. Run **BingeVibe: Watch Shorts**
 3. Enter a search query (e.g. "lofi music", "coding tips")
 4. A side panel opens with Shorts — click **🔇 Tap for sound** on the first video to unmute
 
